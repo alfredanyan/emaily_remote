@@ -1,0 +1,23 @@
+{
+  "name": "emaily",
+  "version": "1.0.0",
+  "description": "Customer Survey Campaign App",
+  "main": "index.js",
+  "engines": {
+    "node": "10.15.0",
+    "npm": "6.4.1"
+  },
+  "scripts": {
+    "test": "Hello Node"
+  },
+  "keywords": [
+    "email",
+    "node",
+    "react"
+  ],
+  "author": "Alfred",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
